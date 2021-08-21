@@ -6,5 +6,5 @@ get '/' do
 end
 
 get '/KiO72' do
-  'Hello KiO72!'
+  'Hello KiO72!?'
 end
